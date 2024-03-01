@@ -13,7 +13,7 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-website: https://astro-milky-way.netlify.app/
+# website: https://astro-milky-way.netlify.app/
 github: https://github.com/ttomczak3/Milky-Way
 ---
 
