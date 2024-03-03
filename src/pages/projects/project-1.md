@@ -13,8 +13,8 @@ worksImage2:
     alt: 'second image of your project.'
 platform: Web
 stack: Astro, JavaScript
-# website: http://websitehere.com
-github: https://github.com/ttomczak3/Milky-Way
+website: http://www.melinda-canny.com
+github: https://github.com/khildith/melinda
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
