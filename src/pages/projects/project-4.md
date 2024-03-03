@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Project 4'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: To Do List
+description: "List of things I hope to do while this website is under construction."
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -16,5 +16,14 @@ stack: Astro, JavaScript
 website: https://www.melinda-canny.com
 github: https://github.com/Khildith/Melinda
 ---
+A list of things to do in no particular order.
+- Ask about interest section, if yes, content?
+- long and short description of book 2
+- images or symbols for books 1 and 2
+- Ask about poems, if yes, linked or rehosted?
+- photography section
+- Image Carousel? Astro Islands + javascript homework
+- clean up projects pages, links?
+- ask about photos, fix profile photos to fit style, blend
+- Create a favicon (the icon on the browser tab)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.

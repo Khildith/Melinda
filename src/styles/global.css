@@ -31,7 +31,7 @@ h2 {
 }
 
 /* Paragraphs */
-p {
+p, ul {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.1em;
     hyphens: none;
