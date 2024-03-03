@@ -34,7 +34,7 @@ h2 {
 p {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.1em;
-    hyphens: auto;
+    hyphens: none;
     line-height: 1.5;
     text-indent: 1em;
 }
