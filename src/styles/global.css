@@ -31,7 +31,7 @@ h2 {
 }
 
 /* Paragraphs */
-p, ul {
+p {
     font-family: 'Josefin Sans', sans-serif;
     font-size: 1.1em;
     hyphens: none;
@@ -39,6 +39,9 @@ p, ul {
     text-indent: 1em;
 }
 
+ul {
+    font-size: 1.1em;
+}
 
 /* Gifs */
 .gif {
