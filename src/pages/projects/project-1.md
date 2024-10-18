@@ -11,9 +11,9 @@ worksImage1:
 worksImage2:
     url: '/image-2.webp'
     alt: 'second image of your project.'
-platform: Web
+platform: E-book, Physical
 stack: Astro, JavaScript
-website: https://www.melinda-canny.com
+website: https://a.co/d/9w4vn59
 github: https://github.com/khildith/melinda
 ---
 ### Ashwind: The Choosing
