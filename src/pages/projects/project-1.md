@@ -1,16 +1,16 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Ashwind Book 1'
+title: 'Book 1 - Ashwind: The Choosing'
 description: "As Ashwind Castle prepares to open, evil strikes, forcing an unlikely boy to lead the champions of the six rooms in a race against time to reclaim the essence of the Lion Room before darkness triumphs."
 image:
-    url: '/GitHub.webp'
-    alt: 'GitHub wallpaper'
+    url: '/book_1_cover_front.jpg'
+    alt: 'book 1 cover small'
 worksImage1:
-    url: '/image-1.webp'
-    alt: 'first image of your project.'
+    url: '/book_1_cover_front.jpg'
+    alt: 'The front cover of Ashwind book 1'
 worksImage2:
-    url: '/image-2.webp'
-    alt: 'second image of your project.'
+    url: '/book_1_cover_back.jpg'
+    alt: 'The back cover of Ashwind book 1'
 platform: E-book, Physical
 stack: Astro, JavaScript
 website: https://a.co/d/9w4vn59

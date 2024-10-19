@@ -49,6 +49,14 @@ ul {
     text-align: center;
 }
 
+.img {
+    margin: 20 px 0 0 0;
+    text-align: center;
+    border-radius: 16 px;
+    margin-top: 10 px;
+
+}
+
 /* Navigation Bar */
 .nav-bar {
     display: grid;

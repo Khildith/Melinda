@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownWorksLayout.astro
-title: 'Project 2'
-description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci'
+title: 'Book 2 - Ashwind: The Joining'
+description: 'Coming Febuary 2025!'
 image:
     url: '/GitHub.webp'
     alt: 'GitHub wallpaper'
@@ -17,4 +17,4 @@ website: https://www.melinda-canny.com
 github: https://github.com/Khildith/Melinda
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus a tortor at molestie. Sed pellentesque leo auctor, auctor lorem nec, venenatis risus. Vivamus commodo ipsum vitae orci finibus, vel porta nunc viverra. In hac habitasse platea dictumst. Nunc pretium, ligula ultricies consequat sollicitudin, enim ex ullamcorper nisl.
+The exciting continuation of the Ashwind saga, available in Febuary 2025!
